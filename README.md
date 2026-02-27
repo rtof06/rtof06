@@ -27,10 +27,8 @@ Ferramentas utilizadas: **SAP**, **Excel**, **Power BI**, **Salesforce**.
 
 ## O que você vai encontrar aqui
 
-- Projetos e estudos em **Python aplicado a dados**
-- Exercícios e práticas de **limpeza, análise e visualização**
-- Materiais relacionados a **Power BI** e **Excel**
-- Pequenas automações e scripts para facilitar rotinas
+Atualmente, este GitHub reúne alguns **sites e exercícios da faculdade**, além de estudos pessoais.  
+Meu objetivo é **preencher o perfil com mais projetos de Análise de Dados**, incluindo análises em Python, dashboards e automações aplicadas a problemas reais.
 
 ---
 
