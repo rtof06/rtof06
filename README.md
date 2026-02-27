@@ -1,28 +1,46 @@
-# 👋 Ricardo Tavares Filho
+# Ricardo Filho
 
-Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia e programação, com experiência em diversas áreas do desenvolvimento web e automação.
+Sou formado em **Análise e Desenvolvimento de Sistemas (FIAP)** e atualmente estou direcionando meu foco para **Análise de Dados**, combinando programação com construção de dashboards e automação de rotinas.
 
-## 🔧 Habilidades Técnicas
+---
 
-- **HTML:** Estruturação de páginas web, SEO e acessibilidade.
-- **CSS:** Estilização e layout responsivo com foco em design limpo e moderno.
-- **JavaScript:** Desenvolvimento de interatividade e funcionalidades dinâmicas para aplicações web.
-- **Python:** Automação de processos e desenvolvimento de scripts para diversas finalidades.
+## Sobre mim
 
-## 🌱 Em constante aprendizado
+Tenho perfil analítico e gosto de transformar dados em informação útil para tomada de decisão. Meu foco hoje está em:
 
-Estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias para resolver problemas de forma eficiente e inovadora.
+- **Python para Análise de Dados** (em estudo contínuo para aperfeiçoar fundamentos e boas práticas)
+  - Bibliotecas: **pandas**, **NumPy**, **matplotlib** (e aprofundando o ecossistema conforme a evolução dos projetos)
+- **Power BI** (dashboards, indicadores e visualização de dados)
+- **Excel** (organização, análises, apoio a relatórios e rotinas)
 
-## 🚀 Projetos
+---
 
-Fique à vontade para explorar meus repositórios e projetos. Gosto muito de compartilhar código e colaborar com outros desenvolvedores para criar soluções impactantes.
+## Experiência (resumo)
 
-## 📫 Entre em contato
+**Continental**  
+Atuei com **atualização de planilhas em Excel** e **análise de dados baseada em vendas** (correias e bolsas pneumáticas).  
+Também desenvolvi uma automação (**RPA**) para apoiar rotinas de extração/atualização de dados, contribuindo para reduzir tarefas manuais e agilizar processos.
 
-Se quiser discutir sobre tecnologia, colaborar em projetos ou simplesmente bater um papo, sinta-se livre para me contatar em ricardoofilho06@gmail.com
+Ferramentas utilizadas: **SAP**, **Excel**, **Power BI**, **Salesforce**.
 
+---
 
-<!---
-rtof06/rtof06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## O que você vai encontrar aqui
+
+- Projetos e estudos em **Python aplicado a dados**
+- Exercícios e práticas de **limpeza, análise e visualização**
+- Materiais relacionados a **Power BI** e **Excel**
+- Pequenas automações e scripts para facilitar rotinas
+
+---
+
+## Links
+
+- [GitHub](https://github.com/rtof06)
+- [LinkedIn](https://www.linkedin.com/in/ricardotavaresfilho/)
+
+---
+
+## Contato
+
+Se quiser trocar ideias sobre dados, projetos ou oportunidades, pode me chamar pelo LinkedIn.
