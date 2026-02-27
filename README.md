@@ -1,4 +1,4 @@
-# Ricardo Filho
+# Ricardo Tavares de Oliveira Filho
 
 Sou formado em **Análise e Desenvolvimento de Sistemas (FIAP)** e atualmente estou direcionando meu foco para **Análise de Dados**, combinando programação com construção de dashboards e automação de rotinas.
 
