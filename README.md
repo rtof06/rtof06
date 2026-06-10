@@ -1,17 +1,15 @@
 # Olá, eu sou Ricardo Tavares!
 
-### Desenvolvedor Front-end | Entusiasta Full-Stack | Arquiteto de Software em Formação
+### Desenvolvedor Front-end
 
 Residente em São Paulo, minha jornada na tecnologia começou cedo. Aos 7 anos, o universo dos jogos despertou minha curiosidade por como as coisas funcionavam por trás da tela. Essa paixão me levou a fazer um curso de desenvolvimento de games aos 12 anos, onde fui o grande destaque da turma, mesmo sendo o aluno mais novo. 
-
-Posso não ter sido o aluno mais tradicional nos moldes clássicos da escola, mas sempre fui movido pela dedicação à tecnologia e pelo desejo de encontrar verdadeira alegria nos processos de criação. Hoje, direciono essa mesma curiosidade e energia para a engenharia de software, construindo soluções modernas e eficientes.
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-- **Pós-graduação em Arquitetura de Software** (Em andamento)
 - **Graduação em Análise e Desenvolvimento de Sistemas** - FIAP (Concluído)
+- **Pós-graduação em Arquitetura de Software** (Em andamento)
 
 ---
 
